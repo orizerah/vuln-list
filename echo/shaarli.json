@@ -1,0 +1,12 @@
+{
+  "CVE-2013-7351": {
+    "fixed_version": "0.0.41~beta~dfsg2-4"
+  },
+  "CVE-2017-15215": {
+    "fixed_version": "0"
+  },
+  "CVE-2018-5249": {
+    "fixed_version": "0"
+  },
+  "CVE-2023-49469": {}
+}

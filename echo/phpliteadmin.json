@@ -1,0 +1,14 @@
+{
+  "CVE-2015-6517": {
+    "fixed_version": "0"
+  },
+  "CVE-2015-6518": {
+    "fixed_version": "0"
+  },
+  "CVE-2018-10362": {
+    "fixed_version": "1.9.7.1-2"
+  },
+  "CVE-2021-46709": {
+    "fixed_version": "1.9.8.2-2"
+  }
+}

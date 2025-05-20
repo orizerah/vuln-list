@@ -1,0 +1,21 @@
+{
+  "CVE-2016-1000237": {
+    "fixed_version": "0"
+  },
+  "CVE-2017-16016": {
+    "fixed_version": "0"
+  },
+  "CVE-2017-16017": {
+    "fixed_version": "0"
+  },
+  "CVE-2021-26539": {
+    "fixed_version": "0"
+  },
+  "CVE-2021-26540": {
+    "fixed_version": "0"
+  },
+  "CVE-2022-25887": {
+    "fixed_version": "2.7.1+~2.6.2-1"
+  },
+  "CVE-2024-21501": {}
+}

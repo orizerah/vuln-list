@@ -1,0 +1,11 @@
+{
+  "CVE-2018-16856": {
+    "fixed_version": "0"
+  },
+  "CVE-2019-17134": {
+    "fixed_version": "4.0.0-6"
+  },
+  "CVE-2019-3895": {
+    "fixed_version": "0"
+  }
+}
