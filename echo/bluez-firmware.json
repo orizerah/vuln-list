@@ -1,0 +1,17 @@
+{
+  "CVE-2020-10370": {
+    "fixed_version": "0"
+  },
+  "CVE-2021-34145": {
+    "fixed_version": "1.2-8"
+  },
+  "CVE-2021-34146": {
+    "fixed_version": "1.2-8"
+  },
+  "CVE-2021-34147": {
+    "fixed_version": "1.2-8"
+  },
+  "CVE-2021-34148": {
+    "fixed_version": "1.2-8"
+  }
+}

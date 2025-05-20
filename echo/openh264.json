@@ -1,0 +1,11 @@
+{
+  "CVE-2014-8001": {
+    "fixed_version": "0"
+  },
+  "CVE-2014-8002": {
+    "fixed_version": "0"
+  },
+  "CVE-2025-27091": {
+    "fixed_version": "2.3.1+dfsg-3+deb12u1"
+  }
+}
