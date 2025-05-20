@@ -1,0 +1,8 @@
+{
+  "CVE-2017-16129": {
+    "fixed_version": "0.20.0+dfsg-2"
+  },
+  "CVE-2022-24434": {
+    "fixed_version": "0"
+  }
+}

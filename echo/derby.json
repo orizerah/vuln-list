@@ -1,0 +1,24 @@
+{
+  "CVE-2005-4849": {
+    "fixed_version": "0"
+  },
+  "CVE-2006-7216": {
+    "fixed_version": "0"
+  },
+  "CVE-2006-7217": {
+    "fixed_version": "0"
+  },
+  "CVE-2009-4269": {
+    "fixed_version": "0"
+  },
+  "CVE-2010-2232": {
+    "fixed_version": "0"
+  },
+  "CVE-2015-1832": {
+    "fixed_version": "10.13.1.1-1"
+  },
+  "CVE-2018-1313": {
+    "fixed_version": "10.14.2.0-1"
+  },
+  "CVE-2022-46337": {}
+}

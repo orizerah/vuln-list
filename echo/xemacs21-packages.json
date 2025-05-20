@@ -1,0 +1,14 @@
+{
+  "CVE-2008-2142": {
+    "fixed_version": "2009.02.17-1"
+  },
+  "CVE-2014-3422": {
+    "fixed_version": "0"
+  },
+  "CVE-2014-3423": {
+    "fixed_version": "0"
+  },
+  "CVE-2014-3424": {
+    "fixed_version": "0"
+  }
+}
