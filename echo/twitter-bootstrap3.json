@@ -1,0 +1,28 @@
+{
+  "CVE-2016-10735": {
+    "fixed_version": "3.4.0+dfsg-1"
+  },
+  "CVE-2018-14040": {
+    "fixed_version": "3.4.0+dfsg-1"
+  },
+  "CVE-2018-14041": {
+    "fixed_version": "0"
+  },
+  "CVE-2018-14042": {
+    "fixed_version": "3.4.0+dfsg-1"
+  },
+  "CVE-2018-20676": {
+    "fixed_version": "3.4.0+dfsg-1"
+  },
+  "CVE-2018-20677": {
+    "fixed_version": "3.4.0+dfsg-1"
+  },
+  "CVE-2019-8331": {
+    "fixed_version": "3.4.1+dfsg-1"
+  },
+  "CVE-2024-6484": {},
+  "CVE-2024-6485": {},
+  "CVE-2024-6531": {
+    "fixed_version": "0"
+  }
+}

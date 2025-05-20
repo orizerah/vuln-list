@@ -1,0 +1,35 @@
+{
+  "CVE-2015-8380": {
+    "fixed_version": "0"
+  },
+  "CVE-2016-1283": {
+    "fixed_version": "0"
+  },
+  "CVE-2016-3191": {
+    "fixed_version": "10.21-1"
+  },
+  "CVE-2017-7186": {
+    "fixed_version": "10.22-3"
+  },
+  "CVE-2017-8399": {
+    "fixed_version": "0"
+  },
+  "CVE-2017-8786": {
+    "fixed_version": "10.31-1"
+  },
+  "CVE-2019-20454": {
+    "fixed_version": "10.34-1"
+  },
+  "CVE-2022-1586": {
+    "fixed_version": "10.40-1"
+  },
+  "CVE-2022-1587": {
+    "fixed_version": "10.40-1"
+  },
+  "CVE-2022-41409": {
+    "fixed_version": "10.42-1"
+  },
+  "TEMP-0827564-93E4E3": {
+    "fixed_version": "0"
+  }
+}

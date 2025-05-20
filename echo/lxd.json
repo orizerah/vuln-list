@@ -1,0 +1,21 @@
+{
+  "CVE-2015-1340": {
+    "fixed_version": "0"
+  },
+  "CVE-2015-8222": {
+    "fixed_version": "0"
+  },
+  "CVE-2016-1581": {
+    "fixed_version": "0"
+  },
+  "CVE-2016-1582": {
+    "fixed_version": "0"
+  },
+  "CVE-2023-49721": {
+    "fixed_version": "0"
+  },
+  "CVE-2024-6156": {},
+  "CVE-2024-6219": {
+    "fixed_version": "0"
+  }
+}

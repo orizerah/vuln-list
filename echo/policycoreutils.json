@@ -1,0 +1,11 @@
+{
+  "CVE-2014-3215": {
+    "fixed_version": "0"
+  },
+  "CVE-2016-7545": {
+    "fixed_version": "2.5-3"
+  },
+  "CVE-2018-1063": {
+    "fixed_version": "2.7-1"
+  }
+}

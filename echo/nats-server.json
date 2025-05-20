@@ -1,0 +1,28 @@
+{
+  "CVE-2019-13126": {
+    "fixed_version": "0"
+  },
+  "CVE-2020-28466": {
+    "fixed_version": "0"
+  },
+  "CVE-2021-3127": {
+    "fixed_version": "0"
+  },
+  "CVE-2022-24450": {
+    "fixed_version": "0"
+  },
+  "CVE-2022-26652": {
+    "fixed_version": "0"
+  },
+  "CVE-2022-28357": {
+    "fixed_version": "0"
+  },
+  "CVE-2022-29946": {
+    "fixed_version": "2.9.8-1"
+  },
+  "CVE-2023-46129": {
+    "fixed_version": "0"
+  },
+  "CVE-2023-47090": {},
+  "CVE-2025-30215": {}
+}

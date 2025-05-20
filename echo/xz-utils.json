@@ -1,0 +1,17 @@
+{
+  "CVE-2015-4035": {
+    "fixed_version": "0"
+  },
+  "CVE-2022-1271": {
+    "fixed_version": "5.2.5-2.1"
+  },
+  "CVE-2024-3094": {
+    "fixed_version": "0"
+  },
+  "CVE-2024-47611": {
+    "fixed_version": "0"
+  },
+  "CVE-2025-31115": {
+    "fixed_version": "5.4.1-1"
+  }
+}

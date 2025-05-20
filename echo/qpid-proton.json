@@ -1,0 +1,14 @@
+{
+  "CVE-2016-2166": {
+    "fixed_version": "0"
+  },
+  "CVE-2016-4467": {
+    "fixed_version": "0"
+  },
+  "CVE-2018-17187": {
+    "fixed_version": "0.22.0-1"
+  },
+  "CVE-2019-0223": {
+    "fixed_version": "0.22.0-1"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "CVE-2003-0098": {
+    "fixed_version": "3.8.5-1.2"
+  },
+  "CVE-2003-0099": {
+    "fixed_version": "3.8.5-1.2"
+  },
+  "CVE-2017-7884": {
+    "fixed_version": "0"
+  },
+  "CVE-2019-12584": {
+    "fixed_version": "0"
+  },
+  "CVE-2019-12585": {
+    "fixed_version": "0"
+  }
+}

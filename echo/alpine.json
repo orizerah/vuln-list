@@ -1,0 +1,38 @@
+{
+  "CVE-2002-1903": {
+    "fixed_version": "0"
+  },
+  "CVE-2003-0297": {
+    "fixed_version": "0"
+  },
+  "CVE-2003-0720": {
+    "fixed_version": "0"
+  },
+  "CVE-2003-0721": {
+    "fixed_version": "0"
+  },
+  "CVE-2005-1066": {
+    "fixed_version": "0"
+  },
+  "CVE-2005-2933": {
+    "fixed_version": "0"
+  },
+  "CVE-2008-5005": {
+    "fixed_version": "0"
+  },
+  "CVE-2008-5514": {
+    "fixed_version": "2.02-3.1"
+  },
+  "CVE-2015-2305": {
+    "fixed_version": "0"
+  },
+  "CVE-2020-14929": {
+    "fixed_version": "2.23+dfsg1-1"
+  },
+  "CVE-2021-38370": {
+    "fixed_version": "2.25+dfsg1-1"
+  },
+  "CVE-2021-46853": {
+    "fixed_version": "2.25+dfsg1-1"
+  }
+}

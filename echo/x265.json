@@ -1,0 +1,11 @@
+{
+  "CVE-2017-13135": {
+    "fixed_version": "2.6-3"
+  },
+  "CVE-2017-13666": {
+    "fixed_version": "0"
+  },
+  "CVE-2017-8906": {
+    "fixed_version": "0"
+  }
+}

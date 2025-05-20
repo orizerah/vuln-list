@@ -1,0 +1,26 @@
+{
+  "CVE-2021-31315": {
+    "fixed_version": "0"
+  },
+  "CVE-2021-31317": {
+    "fixed_version": "0.1+dfsg-2"
+  },
+  "CVE-2021-31318": {
+    "fixed_version": "0"
+  },
+  "CVE-2021-31319": {
+    "fixed_version": "0"
+  },
+  "CVE-2021-31320": {
+    "fixed_version": "0"
+  },
+  "CVE-2021-31321": {
+    "fixed_version": "0.1+dfsg-2"
+  },
+  "CVE-2021-31322": {
+    "fixed_version": "0"
+  },
+  "CVE-2021-31323": {
+    "fixed_version": "0"
+  }
+}

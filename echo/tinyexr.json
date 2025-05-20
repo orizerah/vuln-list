@@ -1,0 +1,39 @@
+{
+  "CVE-2018-12064": {
+    "fixed_version": "0"
+  },
+  "CVE-2018-12092": {
+    "fixed_version": "0"
+  },
+  "CVE-2018-12093": {
+    "fixed_version": "0"
+  },
+  "CVE-2018-12503": {
+    "fixed_version": "0"
+  },
+  "CVE-2018-12504": {
+    "fixed_version": "0"
+  },
+  "CVE-2018-12687": {},
+  "CVE-2018-12688": {
+    "fixed_version": "0"
+  },
+  "CVE-2018-20652": {
+    "fixed_version": "0"
+  },
+  "CVE-2020-18428": {
+    "fixed_version": "0"
+  },
+  "CVE-2020-18430": {
+    "fixed_version": "0"
+  },
+  "CVE-2020-19490": {
+    "fixed_version": "0"
+  },
+  "CVE-2022-34300": {
+    "fixed_version": "1.0.1+dfsg-4"
+  },
+  "CVE-2022-38529": {
+    "fixed_version": "1.0.1+dfsg-4"
+  }
+}

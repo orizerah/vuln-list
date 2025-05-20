@@ -1,0 +1,14 @@
+{
+  "CVE-2017-17831": {
+    "fixed_version": "0"
+  },
+  "CVE-2020-27955": {
+    "fixed_version": "0"
+  },
+  "CVE-2021-21237": {
+    "fixed_version": "0"
+  },
+  "CVE-2024-53263": {
+    "fixed_version": "3.3.0-1+deb12u1"
+  }
+}

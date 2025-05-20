@@ -1,0 +1,11 @@
+{
+  "CVE-2015-4410": {
+    "fixed_version": "1.10.0-2"
+  },
+  "CVE-2015-4411": {
+    "fixed_version": "0"
+  },
+  "CVE-2015-4412": {
+    "fixed_version": "0"
+  }
+}
