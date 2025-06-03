@@ -63,6 +63,18 @@
         "Identifier": "10.5.1"
       },
       "VulnerableVersionRange": "= 10.5.0"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "10.4.1"
+      },
+      "VulnerableVersionRange": "\u003c 10.4.1"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "10.5.1"
+      },
+      "VulnerableVersionRange": "= 10.5.0"
     }
   ]
 }

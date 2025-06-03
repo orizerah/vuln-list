@@ -54,6 +54,12 @@
         "Identifier": "1184.v85d16b_d851b_3"
       },
       "VulnerableVersionRange": "\u003c 1184.v85d16b"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "1184.v85d16b_d851b_3"
+      },
+      "VulnerableVersionRange": "\u003c 1184.v85d16b"
     }
   ]
 }

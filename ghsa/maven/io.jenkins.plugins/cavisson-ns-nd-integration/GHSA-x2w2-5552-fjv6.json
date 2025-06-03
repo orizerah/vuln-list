@@ -51,6 +51,12 @@
         "Identifier": "4.8.0.146"
       },
       "VulnerableVersionRange": "\u003c= 4.8.0.143"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "4.8.0.146"
+      },
+      "VulnerableVersionRange": "\u003c= 4.8.0.143"
     }
   ]
 }
