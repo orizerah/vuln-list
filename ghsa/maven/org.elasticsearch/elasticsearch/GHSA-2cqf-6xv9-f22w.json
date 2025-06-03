@@ -60,18 +60,6 @@
         "Identifier": "7.17.13"
       },
       "VulnerableVersionRange": "\u003c 7.17.13"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "8.9.0"
-      },
-      "VulnerableVersionRange": "\u003e= 8.0.0, \u003c 8.9.0"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "7.17.13"
-      },
-      "VulnerableVersionRange": "\u003c 7.17.13"
     }
   ]
 }
