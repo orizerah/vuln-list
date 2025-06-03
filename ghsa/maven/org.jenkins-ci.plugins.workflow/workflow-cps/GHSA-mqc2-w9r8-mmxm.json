@@ -51,6 +51,12 @@
         "Identifier": "2803.v1a_f77ffcc773"
       },
       "VulnerableVersionRange": "\u003c 2803.v1a"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2803.v1a_f77ffcc773"
+      },
+      "VulnerableVersionRange": "\u003c 2803.v1a"
     }
   ]
 }

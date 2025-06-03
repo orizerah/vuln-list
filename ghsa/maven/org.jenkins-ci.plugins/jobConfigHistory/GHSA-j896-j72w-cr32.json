@@ -54,6 +54,12 @@
         "Identifier": "1156.v536a_97b_8d649"
       },
       "VulnerableVersionRange": "\u003c= 1155.v28a"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "1156.v536a_97b_8d649"
+      },
+      "VulnerableVersionRange": "\u003c= 1155.v28a"
     }
   ]
 }
