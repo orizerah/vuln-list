@@ -75,6 +75,18 @@
         "Identifier": "4.0.37.Final"
       },
       "VulnerableVersionRange": "\u003e= 4.0.0.Alpha1, \u003c 4.0.37.Final"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "4.1.1.Final"
+      },
+      "VulnerableVersionRange": "\u003e= 4.1.0.Beta1, \u003c 4.1.1.Final"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "4.0.37.Final"
+      },
+      "VulnerableVersionRange": "\u003e= 4.0.0.Alpha1, \u003c 4.0.37.Final"
     }
   ]
 }
