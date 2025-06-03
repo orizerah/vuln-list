@@ -48,12 +48,6 @@
         "Identifier": ""
       },
       "VulnerableVersionRange": "\u003c= 346.vd87693c5a"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": ""
-      },
-      "VulnerableVersionRange": "\u003c= 346.vd87693c5a"
     }
   ]
 }

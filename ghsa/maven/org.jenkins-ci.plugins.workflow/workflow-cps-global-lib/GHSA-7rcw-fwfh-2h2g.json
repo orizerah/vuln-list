@@ -51,12 +51,6 @@
         "Identifier": "561.va_ce0de3c2d69"
       },
       "VulnerableVersionRange": "\u003c= 552.vd9cc05b8a2e1"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "561.va_ce0de3c2d69"
-      },
-      "VulnerableVersionRange": "\u003c= 552.vd9cc05b8a2e1"
     }
   ]
 }
