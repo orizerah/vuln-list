@@ -1,13 +1,8 @@
 {
-  "name": "zipkin",
+  "name": "cluster-api-1.9",
   "secfixes": {
-    "3.5.1-r1": [
-      "CVE-2025-27533",
-      "GHSA-whxr-3p84-rf3c"
-    ],
-    "3.5.1-r2": [
-      "CVE-2025-27817",
-      "GHSA-vgq5-3255-v292"
+    "1.9.8-r1": [
+      "GHSA-2x5j-vhc8-9cwm"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
