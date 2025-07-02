@@ -1,7 +1,7 @@
 {
-  "Title": "SUSE-IU-2025:1625-1",
+  "Title": "SUSE-IU-2025:1745-1",
   "Tracking": {
-    "ID": "SUSE Image SUSE-IU-2025:1625-1",
+    "ID": "SUSE Image SUSE-IU-2025:1745-1",
     "Status": "Interim",
     "Version": "1",
     "InitialReleaseDate": "2025-06-19T01:00:00Z",
@@ -9,19 +9,19 @@
     "RevisionHistory": [
       {
         "Number": "1",
-        "Date": "2025-07-02T13:41:52Z",
+        "Date": "2025-07-02T13:42:21Z",
         "Description": "current"
       }
     ]
   },
   "Notes": [
     {
-      "Text": "Image update for SUSE-IU-2025:1625-1 / google/sles-15-sp7-sap-byos-v20250619-x86-64",
+      "Text": "Image update for SUSE-IU-2025:1745-1 / google/sle-hpc-15-sp7-byos-v20250619-x86-64",
       "Title": "Topic",
       "Type": "Summary"
     },
     {
-      "Text": "This image update for google/sles-15-sp7-sap-byos-v20250619-x86-64 contains the following changes:\n",
+      "Text": "This image update for google/sle-hpc-15-sp7-byos-v20250619-x86-64 contains the following changes:\n",
       "Title": "Details",
       "Type": "General"
     },
@@ -36,7 +36,7 @@
   },
   "References": [
     {
-      "URL": "https://publiccloudimagechangeinfo.suse.com/google/sles-15-sp7-sap-byos-v20250619-x86-64/",
+      "URL": "https://publiccloudimagechangeinfo.suse.com/google/sle-hpc-15-sp7-byos-v20250619-x86-64/",
       "Description": "Public Cloud Image Info"
     },
     {
