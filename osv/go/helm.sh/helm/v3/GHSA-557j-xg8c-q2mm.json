@@ -1,6 +1,6 @@
 {
   "id": "GHSA-557j-xg8c-q2mm",
-  "modified": "2025-07-09T15:05:16Z",
+  "modified": "2025-07-09T22:34:03Z",
   "published": "2025-07-08T23:20:54Z",
   "aliases": [
     "CVE-2025-53547"
@@ -21,6 +21,7 @@
     "CGA-mhm7-ffwg-x78m",
     "CGA-mmcv-8q8h-jrmr",
     "CGA-p5qg-mpgw-8827",
+    "CGA-q648-pmcm-8rc2",
     "CGA-rfcr-hgh7-c8xr",
     "CGA-wgv9-xr5p-xpjg",
     "CGA-wpg8-jqm9-jq8x",
@@ -71,6 +72,10 @@
     {
       "type": "PACKAGE",
       "url": "https://github.com/helm/helm"
+    },
+    {
+      "type": "WEB",
+      "url": "https://news.ycombinator.com/item?id=44506696"
     }
   ]
 }
