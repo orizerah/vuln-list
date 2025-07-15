@@ -20,6 +20,9 @@
         "Url": "https://github.com/saleem-hadad/larecipe/commit/c1d0d56889655ce5f2645db5acf0e78d5fc3b36b"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2025-53833"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-jv7x-xhv2-p5v2"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2025-07-14T21:22:01Z",
     "Severity": "CRITICAL",
     "Summary": "LaRecipe is vulnerable to Server-Side Template Injection attacks",
-    "UpdatedAt": "2025-07-14T21:22:03Z",
+    "UpdatedAt": "2025-07-15T00:34:45Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 10,
